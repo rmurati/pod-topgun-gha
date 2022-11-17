@@ -1,4 +1,4 @@
-name: learn-github-actions #Workflow
+name: pod-topgun-gha-example-01 #Workflow
 on: [push] #Event
 jobs:
   check-bats-version: #Job
